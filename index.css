@@ -1,0 +1,83 @@
+body{
+    background-color:hsl(0, 0%, 8%);
+    width: 25%;
+    padding-left: 500px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    padding-right: 30%;
+}
+
+div{
+    background-color: hsl(0, 0%, 12%);
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    border-radius: 2rem;
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+img{
+    border-radius: 10rem;
+    width: 80px;
+}
+
+#name{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#git{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 0.5rem;
+    padding: 10px;
+}
+
+#git:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+
+#fm{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 0.5rem;
+    padding: 10px;
+}
+
+#fm:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+
+#li{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 0.5rem;
+    padding: 10px;
+}
+
+#li:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+
+#x{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 0.5rem;
+    padding: 10px;
+}
+
+#x:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+
+#ig{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 0.5rem;
+    padding: 10px;
+}
+
+#ig:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+
+#yen{
+    font-weight: 400;
+    color: hsl(75, 94%, 57%);
+}
